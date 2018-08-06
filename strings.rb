@@ -1,2 +1,2 @@
 puts "i love kode of klossy".upcase
-puts
+puts "i love kode of klossy".length
