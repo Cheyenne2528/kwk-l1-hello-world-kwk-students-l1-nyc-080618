@@ -1,1 +1,1 @@
-puts "cheyenne"
+put_via_redirect
