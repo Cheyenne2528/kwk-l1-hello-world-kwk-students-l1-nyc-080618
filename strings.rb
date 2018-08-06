@@ -1,1 +1,1 @@
-put_via_redirect
+puts "cheyenne" upcase
