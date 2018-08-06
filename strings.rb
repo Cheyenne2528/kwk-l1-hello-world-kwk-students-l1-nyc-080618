@@ -1,1 +1,1 @@
-puts "cheyenne".swapcase
+puts "i love kode of klossy".upcase .length
