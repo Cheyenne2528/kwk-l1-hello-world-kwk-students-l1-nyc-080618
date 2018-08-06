@@ -1,1 +1,1 @@
-puts "cheyenne".reverse
+puts "cheyenne".swapcase
