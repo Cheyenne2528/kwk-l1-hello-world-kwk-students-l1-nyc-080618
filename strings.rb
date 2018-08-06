@@ -1,1 +1,1 @@
-puts "cheyenne".downcase
+puts "CHEYENNE".downcase
