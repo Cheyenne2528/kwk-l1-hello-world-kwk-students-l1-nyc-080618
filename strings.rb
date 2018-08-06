@@ -1,1 +1,1 @@
-puts "cheyenne" upcase
+puts "cheyenne".upcase
